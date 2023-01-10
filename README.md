@@ -1,1 +1,1 @@
-# Arabic-Sentiment-Analysis-using-BiLSTM
+# Arabic Sentiment Analysis and Text Classification (Using BiLSTM)
