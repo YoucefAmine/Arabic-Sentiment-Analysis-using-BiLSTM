@@ -36,7 +36,7 @@ Sentiment Analysis is to build machine learning models that can determine the to
 | Number of Epochs | 20    |
 
 - ### Model:
-The BiLSTM model is composed of an embedding layer, a BiLSTM layer with 64 LSTM cells, then the output is passed to a dropout layer with a 0.5 dropout rate then after that directly to the classification layer. The architecture used is shown in the figure below
+The BiLSTM model is composed of an embedding layer, a BiLSTM layer with 64 LSTM cells, then the output is passed to a dropout layer with a 0.5 dropout rate then after that directly to the classification layer. The architecture used is shown in the figure below.
 
 ![bilstmarchitecture](https://user-images.githubusercontent.com/45196964/214374190-c17632fb-dae8-4aa8-aa0b-72ce2dd2566f.png)
 
